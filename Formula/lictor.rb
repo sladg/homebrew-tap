@@ -1,8 +1,8 @@
 class Lictor < Formula
   desc "Policy gate + output minifier for coding-agent tool calls"
   homepage "https://github.com/sladg/lictor"
-  url "https://github.com/sladg/lictor/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "336bd49bdb40f7786e435a75a8783530f0f926298d9b894d6b99078d21799d02"
+  url "https://github.com/sladg/lictor/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "a7fe323fa49cf714752c0bde8e6315032e135117ac76422e86caa522f18f57db"
   license "MIT"
   head "https://github.com/sladg/lictor.git", branch: "master"
 
